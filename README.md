@@ -58,4 +58,9 @@ String decoded = morse.decode(encoded);
 // Expected Output (Console):
 // Morse Text: . -..- . .-. -.-. .. -.-. .. ---  -... --- -. ..- ...  -.. .  .- .-.. --. --- .-. .. - -- --- ...  .  . ... - .-. ..- - ..- .-. .- ...  -.. .  -.. .- -.. --- ...  ..
 // Decoded Text: exercicio bonus de algoritmos e estruturas de dados i
+```
+## 🙋‍♂️ Author 
+Developed by Henrique Collatto.
+
+Semester: 2024/2 (Algorithms and Data Structures I)
 
