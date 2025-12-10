@@ -59,8 +59,9 @@ String decoded = morse.decode(encoded);
 // Morse Text: . -..- . .-. -.-. .. -.-. .. ---  -... --- -. ..- ...  -.. .  .- .-.. --. --- .-. .. - -- --- ...  .  . ... - .-. ..- - ..- .-. .- ...  -.. .  -.. .- -.. --- ...  ..
 // Decoded Text: exercicio bonus de algoritmos e estruturas de dados i
 ```
-## 🙋‍♂️ Author 
-Developed by Henrique Collatto.
+## 👤 Author
+Developed by **[Seu Nome]**
 
-Semester: 2024/2 (Algorithms and Data Structures I)
+## 📅 Semester
+**Algorithms and Data Structures I — 2024/2**
 
