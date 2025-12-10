@@ -60,7 +60,7 @@ String decoded = morse.decode(encoded);
 // Decoded Text: exercicio bonus de algoritmos e estruturas de dados i
 ```
 ## 👤 Author
-Developed by **[Seu Nome]**
+Developed by **Henrique Collatto**
 
 ## 📅 Semester
 **Algorithms and Data Structures I — 2024/2**
